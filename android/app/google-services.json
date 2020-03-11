@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527168494670",
+    "firebase_url": "https://elpee-61c3f.firebaseio.com",
+    "project_id": "elpee-61c3f",
+    "storage_bucket": "elpee-61c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527168494670:android:138de8bbeef18c5089771f",
+        "android_client_info": {
+          "package_name": "com.tom.elpee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527168494670-c91sskha4djjb7cirnpmlbvioo5hghcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKJyCyPy0qk5oo6TTDtRccWR10fD7ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527168494670-c91sskha4djjb7cirnpmlbvioo5hghcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527168494670-o0hcm35of2n49s2i4l3lk3raic34472s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elpee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
